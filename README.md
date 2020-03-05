@@ -1,7 +1,7 @@
 ![icon](https://github.com/Jaguarmouse/Nemo/blob/master/icon_nemo_resized.png)
 
 # Nemo
-3Dアバターカラオケアプリ by 株式会社aboon
+3Dアバターフェイストラッキングカラオケアプリ by 株式会社aboon
 
 ![gif](https://github.com/Jaguarmouse/Nemo/blob/master/result.gif)
 
