@@ -5,6 +5,6 @@
 
 ![gif](https://github.com/Jaguarmouse/Nemo/blob/master/result.gif)
 
-![image1](https://github.com/Jaguarmouse/Nemo/blob/master/IMG_0072_S.PNG)
-![image2](https://github.com/Jaguarmouse/Nemo/blob/master/IMG_0075_S.PNG)
-![image3](https://github.com/Jaguarmouse/Nemo/blob/master/IMG_0074_S.PNG)
+![image1](https://github.com/Jaguarmouse/Nemo/blob/master/output_0001.png)
+![image2](https://github.com/Jaguarmouse/Nemo/blob/master/output_0003.png)
+![image3](https://github.com/Jaguarmouse/Nemo/blob/master/output_0002.png)
